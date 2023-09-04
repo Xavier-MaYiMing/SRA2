@@ -57,8 +57,8 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![Pareto front 2](/Users/xavier/Desktop/Xavier Ma/个人算法主页/SRA2/Pareto front 2.png)
+![](https://github.com/Xavier-MaYiMing/SRA2/blob/main/Pareto%20front%202.png)
 
-![Pareto front](/Users/xavier/Desktop/Xavier Ma/个人算法主页/SRA2/Pareto front.png)
+![](https://github.com/Xavier-MaYiMing/SRA2/blob/main/Pareto%20front.png)
 
 The upper figure is the Pareto front obtained by the SRA, and the lower one is the SRA2. It can be seen that SRA2 can obtain more evenly distributed Pareto optimal solutions. 
